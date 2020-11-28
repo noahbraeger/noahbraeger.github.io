@@ -163,6 +163,11 @@ a {
   text-decoration: none;
   background-color: transparent;
 }
+.special-a {
+  color: #001E52;
+  text-decoration: underline;
+  background-color: transparent;
+}
 a:hover {
   color: #824027;
   text-decoration: underline;
